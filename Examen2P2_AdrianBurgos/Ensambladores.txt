@@ -1,0 +1,2 @@
+08012002;Adrian;Masculino;19;5
+161753;Sofia;Femenino;18;0

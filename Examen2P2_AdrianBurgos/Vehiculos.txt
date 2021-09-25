@@ -1,0 +1,2 @@
+6165123;Azul;5416;Litio;Aluminio;70;Cuero;Nose;2;1;false;4;Bose;6165123;6165123;4;false;true
+11748161;Azul;414561;Litio;Aluminio;700;Cuero;Nose;2;1;true;3;Sony;11748161;4;Cuero Sintetico;true;false

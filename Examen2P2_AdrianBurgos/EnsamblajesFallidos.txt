@@ -1,0 +1,2 @@
+Vehiculo[VIN: 6165123, Color: Azul, Marca del sistema de audio:Bose, Cantidad de asientos:6165123]
+Vehiculo[VIN: 6165123, Color: Azul, Marca del sistema de audio:Bose, Cantidad de asientos:6165123]
